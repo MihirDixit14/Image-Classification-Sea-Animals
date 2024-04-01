@@ -1,5 +1,6 @@
 # Image-Classification-Sea-Animals
 
+ 
 This repository contains code and documentation for an assignment focused on implementing Convolutional Neural Networks (CNNs) for the classification of sea animal images into five categories: Crabs, Sea Rays, Sea Urchins, Seahorse, and Sharks. The assignment is divided into two main tasks:
 
 Task 1: CNN Architecture Implementation and Evaluation
